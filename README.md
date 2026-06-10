@@ -4,6 +4,7 @@ This project simulates the trajectory of a charged particle moving through a **u
 
 ## How it works
 The simulation uses the **Lorentz Force** equation:
+
 $$ \vec{F} = q (\vec{v} \times \vec{B}) $$
 
 When a particle has a velocity component perpendicular to the magnetic field, it moves in a circle. If it also has a component parallel to the field, the resulting path is a **helix (spiral)**.
